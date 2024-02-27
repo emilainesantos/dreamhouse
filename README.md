@@ -1,5 +1,7 @@
 # Salesforce DX Project: Next Steps
 
+![image](https://github.com/emilainesantos/dreamhouse/assets/84165229/c7b7329e-4a70-462d-9191-352db2109f60)
+
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
 ## How Do You Plan to Deploy Your Changes?
